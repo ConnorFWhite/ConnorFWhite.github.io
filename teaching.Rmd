@@ -1,0 +1,22 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+
+## Teaching assistant classes
+
+<img style="float: right; width:30%; border:10px solid; margin-right: 10px" src="images/Connor_2.jpg">
+
+Spring 2018: Biology of Fishes (OEB 130), Harvard University
+
+Fall 2015: Fisheries Science(OSI 431), The Ocean Institute, California State University
+
+Fall 2015: Marine Community Ecology (OSI 421), The Ocean Institute, California State University
+
+Fall 2015: Directed Research (OSI 490), The Ocean Institute, California State University
+
+Fall 2013: Marine Biology (Bio 153), California State University Long Beach
+
+Spring - Fall 2014: Biological Statistics (Bio 260), California State University Long Beach
