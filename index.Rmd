@@ -7,7 +7,12 @@ title: "Welcome"
 <img src="images/leopard_shark_tagging.jpg" style="width:100%; border:10px solid; margin-right: 20px" align="left">
 
 
+<br>
+
+<br>
+
 Currently I am a graduate student in the [Department of Organismic and Evolutionary Biology at Harvard University](https://oeb.harvard.edu/). I am broadly interested in Ecology. My primary interests are using interdiscipliary approaches integrating technology to anwser questions about animal movement and behavior.
+
 
 
 My full CV is available [here](files/White CF_CV.pdf).
