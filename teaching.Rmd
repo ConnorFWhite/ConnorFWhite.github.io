@@ -6,18 +6,22 @@ title: "Teaching and Mentoring Experience"
 
 ### Mentor
 
-<img style="float: right; width:40%; border:0px solid; margin-right: 10px" src="images/HarvardForest.jpg">
+<img style="float: right; width:40%; border:0px solid; margin-left: 10px" src="images/HarvardForest.jpg">
 
 * **Resident Tutor** , Lowell House, Harvard University
   * From Fall 2017 through present I have been a resident tutor at Lowell House, one of the dorms at Harvard College. I live in the building with students where I am additional resource and daily interact with a wide range of students where I provide advice on both academic and personal matters. Within the house I am in charge of the intermural program, as well as part of the Fellowship team and the Lowell Speeches Program.
 
+<br>
+
+<br>
 
 ### Classes
 
-<img style="float: right; width:30%; border:0px solid; margin-right: 10px" src="images/Connor_Fishing.jpg">
 
 * **Evolutionary Human Anatomy and Physiology** (LS2), Harvard University
   * During Fall of 2020 I worked as a grading assistant for Dr. George Lauder, Dr. Dan Leiberman, and Dr. Andrew  Bieweiner. This course is designed as an introductory anatomy and Physiology. I worked as a grader during the transistion to online learning, where I weekly graded 160 short anwser (20 sentence) questions.
+
+<img style="float: right; width:30%; border:0px solid; margin-right: 10px" src="images/Snorkle.jpg">
 
 * **Biology of Fishes** (OEB 130), Harvard University
   * During Spring of 2018 I worked as a teaching assistant for Dr. George Lauder providing an overview of fish Biology. This was a course of approximately 60 primarily upperclass students. As a broad course we discussed fish anatomy, physiology, evolution and behavior. I led students in a weekly fish disesction.
@@ -25,8 +29,11 @@ title: "Teaching and Mentoring Experience"
 * **Fisheries Science** (OSI 431), The Ocean Institute, California State University
   * During the fall of 2015 I worked as a teaching assistant for Dr. Chris Lowe 4 week field fisheries science class. This was during a field semester with students living at the University of Southern California's Wrigley field station on Catalina Island. I mainly led students in lab based dissections as well as field excersizes to learn fish ID, as well as field methods such as snorkle transects and boat driving.
 
+
 * **Marine Community Ecology** (OSI 421), The Ocean Institute, California State University
    * During the fall of 2015 I worked as a teaching assistant for Dr. Bengt Allens 4 week field Marine Ecology class. This was during a field semester with students living at the University of Southern California's Wrigley field station on Catalina Island. I led students in lab excersizes as well as field studies, like inter and sub tidal transects and species ID
+
+<img style="float: right; width:40%; border:0px solid; margin-right: 10px" src="images/ClassMud.jpg">
    
 * **Directed Research (OSI 490)**, The Ocean Institute, California State University
   * During the last 4 weeks of students Catalina Semester students were in charge of conducting their own field research project which was ultimately presented as their final project. I aided students in study design, field research, statistical analysis, and results writing.
