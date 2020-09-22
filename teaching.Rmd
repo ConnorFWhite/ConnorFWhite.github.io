@@ -5,13 +5,16 @@ title: "Teaching and Mentoring Experience"
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ### Mentor
+
+<img style="float: right; width:40%; border:0px solid; margin-right: 10px" src="images/HarvardForest.jpg">
+
 * **Resident Tutor** , Lowell House, Harvard University
   * From Fall 2017 through present I have been a resident tutor at Lowell House, one of the dorms at Harvard College. I live in the building with students where I am additional resource and daily interact with a wide range of students where I provide advice on both academic and personal matters. Within the house I am in charge of the intermural program, as well as part of the Fellowship team and the Lowell Speeches Program.
 
 
 ### Classes
 
-<img style="float: right; width:30%; border:10px solid; margin-right: 10px" src="images/Connor_Fishing.jpg">
+<img style="float: right; width:30%; border:0px solid; margin-right: 10px" src="images/Connor_Fishing.jpg">
 
 * **Evolutionary Human Anatomy and Physiology** (LS2), Harvard University
   * During Fall of 2020 I worked as a grading assistant for Dr. George Lauder, Dr. Dan Leiberman, and Dr. Andrew  Bieweiner. This course is designed as an introductory anatomy and Physiology. I worked as a grader during the transistion to online learning, where I weekly graded 160 short anwser (20 sentence) questions.
