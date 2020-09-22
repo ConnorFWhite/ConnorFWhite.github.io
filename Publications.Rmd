@@ -9,7 +9,7 @@ A full list of my publications is available on [Google scholar](https://scholar.
 
 ###  Publications
 
-<img style="float: right; width:30%; border:10px solid; margin-right: 10px" src="images/Connor_2.jpg">
+<img style="float: right; width:30%; border:10px solid; margin-right: 10px" src="images/Connor_Fishing.jpg">
 
 Yung-Chun Z, Moxley JH, Kanive P, Gleiss A, Maughan T, Bird L, Jewell O, Chapple T, Gagne T, **White CF**, Jorgensen SJ. In Review. Deep learning accurately predicts white shark locomotor activity from depth data. *Animal Biotelemetry*
 

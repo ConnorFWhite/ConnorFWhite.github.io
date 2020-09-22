@@ -8,7 +8,7 @@ title: "Teaching"
 
 ## Teaching assistant classes
 
-<img style="float: right; width:30%; border:10px solid; margin-right: 10px" src="images/Connor_2.jpg">
+<img style="float: right; width:30%; border:10px solid; margin-right: 10px" src="images/Connor_Fishing.jpg">
 
 Spring 2018: Biology of Fishes (OEB 130), Harvard University
 
