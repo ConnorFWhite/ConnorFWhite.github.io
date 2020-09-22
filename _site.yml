@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Education"
       href: education.html
+    - text: "Experience"
+      href: experience.html
     - text: "Publications"
       href: Publications.html
     - text: "Teaching"
