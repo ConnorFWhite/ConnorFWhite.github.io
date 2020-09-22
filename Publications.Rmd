@@ -7,8 +7,6 @@ title: "Published articles"
 
 A full list of my publications is available on [Google scholar](https://scholar.google.com/citations?user=Xsxg0-sAAAAJ&hl=en).
 
-<img style="float: right; width:30%; border:0px solid; margin-right: 10px" src="images/Connor_Fishing.jpg">
-
 
 **19)** Andrew P. Nosal AP, Cartamil DC, Ammann AJ, Bellquist LF, Ben-Aderet NJ, Blincow KM, Burns ES, Chapman ED, Freedman RM, Klimley PA, Logan RK, Lowe CG, Semmens BX, **White CF**, Hastings PA. *In Review*. Triennial Migration and Philopatry in the Critically Endangered Soupfin Shark (Galeorhinus galeus).*Proceedings of the National Academy of Sciences*
 
@@ -38,8 +36,6 @@ A full list of my publications is available on [Google scholar](https://scholar.
 
 **6)** Smith K, Hsiung S, **White CF**, Lowe CG, Clark CM. 2016. Stochastic modeling and control for tracking the periodic movements of marine animals via AUVs. *Intelligent Robots and Systems (IROS 2016)* 3101-3107.
 
-<img src="images/Connor_Fishing.jpg" style="width:25%; border:0px solid; margin-right: 20px" align="left">
-
 **5)** Hart KM, **White CF**, Sartain AR, Whitney NM. 2016. Trading shallow safety for deep sleep: juveniles green sea turtles risk increased predation for better rest as they grow. *Endangered Species Research* 31:61-73.
 
 **4)** Whitney NM, **White CF**, Gleiss AC, Schweiterman GD, Anderson PA, Skomal GB, Hueter RH. 2016. A novel method for determining post-release mortality, behavior, and recovery period using acceleration data loggers. *Fisheries Research* 183: 210-221
@@ -49,4 +45,14 @@ A full list of my publications is available on [Google scholar](https://scholar.
 **2)** Lin Y, Kastein H, Peterson T, **White CF**, Lowe CG, Clark CM. 2014. A Multi-AUV state estimator for determining the 3D position of tagged fish. In: *Intelligent Robots and Systems (IROS 2014)*. pp 3469-3475.
 
 **1)** Lin Y, Kastein H, Peterson T, **White CF**, Lowe CG, Clark CM. 2013. Using time of flight distance calculations for tagged shark localization with an AUV. *Proceedings of the Unmanned Untethered Submersible Technology Conference*.
+
+## IUCN Red List Assessments
+
+1. Perez-Jimenez JC, **White CF**, Ruiz C, Carlisle AB, Lowe CG. 2016. *Mustelus lunulatus*, Sicklefin Smoothhound. The IUCN Red List of Threatened Species 2016:e.T161640A5470780.
+
+1. Bizzarro JJ, Kyne PM, Freedman RM, **White CF**, Lowe CG. 2015. *Zapteryx exasperata*, Banded Guitarfish. The IUCN Red List of Threatened Species 2015:e.T60177A80673370.
+
+1. Carlisle AB, Smith SE, Launer AL, **White CF**. 2015. *Triakis semifasciata*, Leopard Shark. The IUCN Red List of Threatened Species 2015:e.T39363A80672743.
+
+1. Villavicencio-Garayzar CJ, **White CF**, Lowe CG. 2015. *Cephaloscyllium ventriosum*, Swell Shark. The IUCN Red List of Threatened Species 2015: e.T60227A80671800.
 
