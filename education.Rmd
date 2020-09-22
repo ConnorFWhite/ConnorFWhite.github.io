@@ -9,6 +9,9 @@ title: "Education"
 
 <img style="float: right; width:30%; border:10px solid; margin-right: 10px" src="images/Connor_Sheephead.jpg">
 
+<img style="float: right; width:30%; border:10px solid; margin-right: 10px" src="images/Connor_Fishing.jpg">
+
+
 I started my PhD in the fall of 2019 at Harvard University in the [Department of Organismic and Evolutionary Biology](https://oeb.harvard.edu/). I am a member of Dr. George Lauders Biomechanics and Hydrodynamics lab. I am broadly interested in fish behavior and I would like to begin to understand the kinematics of fishes in their natural environment. I am currently building a multiaccelerometer datalogger allowing for who body kimatics from fish in the wild.
 
 
