@@ -1,6 +1,7 @@
-name: "Connor-White"
+name: "Connor F. White"
+output_dir: "."
 navbar:
-  title: "Connor F White"
+  title: "Connor F. White"
   left:
     - text: "Education"
       href: education.html
