@@ -7,7 +7,7 @@ title: "Published articles"
 
 A full list of my publications is available on [Google scholar](https://scholar.google.com/citations?user=Xsxg0-sAAAAJ&hl=en).
 
-<img style="float: right; width:30%; border:10px solid; margin-right: 10px" src="images/Connor_Fishing.jpg">
+<img style="float: right; width:30%; border:0px solid; margin-right: 10px" src="images/Connor_Fishing.jpg">
 
 
 **19)** Andrew P. Nosal AP, Cartamil DC, Ammann AJ, Bellquist LF, Ben-Aderet NJ, Blincow KM, Burns ES, Chapman ED, Freedman RM, Klimley PA, Logan RK, Lowe CG, Semmens BX, **White CF**, Hastings PA. *In Review*. Triennial Migration and Philopatry in the Critically Endangered Soupfin Shark (Galeorhinus galeus).*Proceedings of the National Academy of Sciences*
@@ -38,7 +38,7 @@ A full list of my publications is available on [Google scholar](https://scholar.
 
 **6)** Smith K, Hsiung S, **White CF**, Lowe CG, Clark CM. 2016. Stochastic modeling and control for tracking the periodic movements of marine animals via AUVs. *Intelligent Robots and Systems (IROS 2016)* 3101-3107.
 
-<img src="images/Connor_Fishing.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/Connor_Fishing.jpg" style="width:25%; border:0px solid; margin-right: 20px" align="left">
 
 **5)** Hart KM, **White CF**, Sartain AR, Whitney NM. 2016. Trading shallow safety for deep sleep: juveniles green sea turtles risk increased predation for better rest as they grow. *Endangered Species Research* 31:61-73.
 
