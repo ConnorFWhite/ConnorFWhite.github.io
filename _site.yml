@@ -13,6 +13,8 @@ navbar:
       href: talks.html
     - text: "Programming"
       href: software.html
+    - text: "CV"
+      href: CV.html      
   right:
     - icon: fa-envelope fa-lg
       href: connor.white@gmail.com
