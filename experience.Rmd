@@ -7,6 +7,8 @@ title: "Experience"
 I am working here now on biomechanics
 
 ### Anderson Cabot Center for Ocean Life at New England Aquarium
+<img style="float: right; width:30%; border:0px solid; margin-left: 10px" src="images/sandbarTagging.jpg">
+
 I worked here for a couple of years studying a diversity of topics, like red drum post release mortality, sea turtle nesting behavior, burmese python behavior, shore based fishing sand bar shark post release mortality, and long line fishing shark post release mortality
 
 ### Massachusetts Division of Marine Fisheries
@@ -22,9 +24,12 @@ I worked on a project studying barred sand bass and bay bass movements in refere
 I worked on a diversity of projects, but mainly spent my time, developing autonomous vehicles to track sharks, and studying the movements of juvenile white sharks in Southern California.
 
 ### Mote Marine Laboratory
+<img style="float: right; width:30%; border:0px solid; margin-left: 10px" src="images/HoldTag.JPG">
+
 I first got involved in tagging animals at mote when I was an intern and then research technician with Dr. Nick Whitney. I worked on a project where we tagged Blacktip sharks using recreational fishing methods to assess the species post release mortality. From this project I became involved in other projects such as juvenile sea turtle behavior.
 
 ### Saltwater Inc.
+
 After graduating, I worked as a fisheries Observer in the Alaskan groundfish fishery. I worked on commercial fishing boats of multiple gear types (bottom lonling, pot, trawl) sampling their catch for the National Marine Fisheries service
 
 ### William and Mary
