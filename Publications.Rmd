@@ -8,9 +8,9 @@ title: "Published articles"
 A full list of my publications is available on [Google scholar](https://scholar.google.com/citations?user=Xsxg0-sAAAAJ&hl=en).
 
 
-**19)** Andrew P. Nosal AP, Cartamil DC, Ammann AJ, Bellquist LF, Ben-Aderet NJ, Blincow KM, Burns ES, Chapman ED, Freedman RM, Klimley PA, Logan RK, Lowe CG, Semmens BX, **White CF**, Hastings PA. *In Submission*. Triennial Migration and Philopatry in the Critically Endangered Soupfin Shark (Galeorhinus galeus).
+**19)** Andrew P. Nosal AP, Cartamil DC, Ammann AJ, Bellquist LF, Ben-Aderet NJ, Blincow KM, Burns ES, Chapman ED, Freedman RM, Klimley PA, Logan RK, Lowe CG, Semmens BX, **White CF**, Hastings PA. *In Review*. Triennial Migration and Philopatry in the Critically Endangered Soupfin Shark (*Galeorhinus galeus*). *Journal of Applied Ecology* 
 
-**18)** Whitney NM, **White CF**, Smith BJ, Cherkiss MS, Mazzotti FJ, Hart KM. *In Review*. Activity patterns of invasive Burmese pythons (Python bivittatus) in the wild. *Animal Biotelemetry*  
+**18)** Whitney NM, **White CF**, Smith BJ, Cherkiss MS, Mazzotti FJ, Hart KM. *In Review*. Activity patterns of invasive Burmese pythons (*Python bivittatus*) in the wild. *Animal Biotelemetry*  
 
 **17)** Popp M, **White CF**, Bernal D, Wainwright DK, Lauder GV. 2020. The denticle surface of thresher shark tails: three-dimensional structure and comparison to other pelagic species. *Journal of Morphology* 281(8): 938-955
 
@@ -20,7 +20,7 @@ A full list of my publications is available on [Google scholar](https://scholar.
 
 **14)** **White CF**, Lyons K, Weng K, Winkler C, Jorgensen SJ, O’Sullivan J, Lowe CG. 2019. Quantifying habitat selection and variability in habitat suitability for juvenile white sharks. *PlosOne* 14(5) e0214642
 
-**13)** Logan RK, Winkler C, Lyons K, **White CF**, Jorgensen SJ, O’Sullivan, JB Lowe CG. 2018. Length, girth and weight morphometic relationships for juvenile white sharks (Carcharodon carcharias) in Southern California. *Journal of Fish Biology* 93(5): 842-849
+**13)** Logan RK, Winkler C, Lyons K, **White CF**, Jorgensen SJ, O’Sullivan, JB Lowe CG. 2018. Length, girth and weight morphometic relationships for juvenile white sharks (*Carcharodon carcharias*) in Southern California. *Journal of Fish Biology* 93(5): 842-849
 
 **12)** Whitney NM, Lear KO, Gleiss AC, **White CF**. 2018. Advances in the application of high-resolution biologgers to elasmobranch fishes. In: *Shark Research: Emerging Technologies and Application for the Field and Laboratory*. Editor: Carrier JC, Heithaus MR, Simpfendorfer CA P. 45-71
 
@@ -28,7 +28,7 @@ A full list of my publications is available on [Google scholar](https://scholar.
 
 **10)** Benson JF, Jorgensen SJ, O’Sullivan JB, Winkler C, **White CF**, Garcia E, Sosa-Nishizaki O, Lowe CG. 2018. Juvenile survival, competing risks, and spatial variation in mortality risk of a marine apex predator. *Journal of Applied Ecology* 55(6) 2888-2897
 
-**9)** Whitney NM, **White CF**, Anderson PA, Skomal GB, Hueter RH. 2017. Relationships between behavioral and physiological responses and post-release mortality of blacktip sharks (Carcharhinus limbatus) caught by circle and J- hooks in the Florida recreational shark fishery. *US Fisheries Bulletin* 115(4): 523-543
+**9)** Whitney NM, **White CF**, Anderson PA, Skomal GB, Hueter RH. 2017. Relationships between behavioral and physiological responses and post-release mortality of blacktip sharks (*Carcharhinus limbatus*) caught by circle and J- hooks in the Florida recreational shark fishery. *US Fisheries Bulletin* 115(4): 523-543
 
 **8)** Lin Y, Hsiung J, Piersall R, **White CF**,  Lowe CG, Clark CM. 2017. A Multi-AUV System for Autonomous Tracking of Marine Life. *Journal of Field Robotics*. 34(4): 757-773
 
