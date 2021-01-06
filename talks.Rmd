@@ -6,6 +6,8 @@ title: "Presentations"
 
 <img style="float: right; width:50%; border:0px solid; margin-left: 10px" src="images/NelsonSymposium.JPG">
 
+* **White CF**, Lauder GV 2021. Fish locomotion: reconstructing fish midline kinematics from multiple inertial measurement units. Society of Integrative and Comparative Biology. Virtual Meeting.
+
 * **White CF**, Whitney NM, Weber DN, Frazier BS. 2020. Survival and swimming behavior of red drum (*Sciaenops ocellatus*) following recreational capture and release. Society of Integrative and Comparative Biology. Austin TX.
 
 * **White CF**, Clark CM, Lowe CG. 2019. Shark tracking robots: Development of autonomous Vehicles for tracking animals. American Elasmobranch Society. Snowbird UT.
