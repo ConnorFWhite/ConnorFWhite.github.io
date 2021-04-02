@@ -5,12 +5,13 @@ title: "Published articles"
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-A full list of my publications is available on [Google scholar](https://scholar.google.com/citations?user=Xsxg0-sAAAAJ&hl=en).
+A list of my publications is available on [Google scholar](https://scholar.google.com/citations?user=Xsxg0-sAAAAJ&hl=en).
 
+**21)** Anderson JM, Clevenstine AJ, Stirling BS,  Burns ES, Meese EN, **White CF**, Logan RK, O’Sullivan JO, Rex PT, May J, Winkler C, Garcia-Rodriguez E, Sosa-Mishizaki Oscar, Lowe CG. *In Review*. Non-random Co-occurrence of Juvenile White Sharks (*Carcharodon carcharias*) at Seasonal Aggregations Sites in Southern California.
 
-**20)** Anderson JM, Burns ES, Meese EN, Farrugia TF, Stirling BS, **White CF**, Logan RK, O’Sullivan JO, Winkler C, Lowe CG. *Accepted*. Interannual nearshore habitat use of young of the year white sharks off southern California. *Frontiers in Marine Science*
+**20)** Anderson JM, Burns ES, Meese EN, Farrugia TF, Stirling BS, **White CF**, Logan RK, O’Sullivan JO, Winkler C, Lowe CG. 2021. Interannual nearshore habitat use of young of the year white sharks off southern California. *Frontiers in Marine Science* 8: 238
 
-**19)** Andrew P. Nosal AP, Cartamil DC, Ammann AJ, Bellquist LF, Ben-Aderet NJ, Blincow KM, Burns ES, Chapman ED, Freedman RM, Klimley PA, Logan RK, Lowe CG, Semmens BX, **White CF**, Hastings PA. *In Press*. Triennial Migration and Philopatry in the Critically Endangered Soupfin Shark (*Galeorhinus galeus*). *Journal of Applied Ecology* 
+**19)** Andrew P. Nosal AP, Cartamil DC, Ammann AJ, Bellquist LF, Ben-Aderet NJ, Blincow KM, Burns ES, Chapman ED, Freedman RM, Klimley PA, Logan RK, Lowe CG, Semmens BX, **White CF**, Hastings PA. 2021. Triennial Migration and Philopatry in the Critically Endangered Soupfin Shark (*Galeorhinus galeus*). *Journal of Applied Ecology* 
 
 **18)** Whitney NM, **White CF**, Smith BJ, Cherkiss MS, Mazzotti FJ, Hart KM. 2021. Accelerometry to study fine-scale activity of invasive Burmese pythons (*Python bivittatus*) in the wild. *Animal Biotelemetry* 9(2):1-13  
 
