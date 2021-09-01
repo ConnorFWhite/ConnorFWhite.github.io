@@ -4,18 +4,18 @@ title: "Experience"
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ### Harvard
-I am working here now on biomechanics
+As a member of George Lauders Biomechanics Lab I w
 
 ### Anderson Cabot Center for Ocean Life at New England Aquarium
 <img style="float: right; width:30%; border:0px solid; margin-left: 10px" src="images/SandbarTagging.jpg">
 
-I worked here for a couple of years studying a diversity of topics, like red drum post release mortality, sea turtle nesting behavior, burmese python behavior, shore based fishing sand bar shark post release mortality, and long line fishing shark post release mortality
+I conducted research on a diversity of topics, including red drum post release mortality, sea turtle nesting behavior, burmese python behavior,post release mortality of sand bar sharks in the shore based fishery, and post release mortality of sharks in a long line fishery.
 
 ### Massachusetts Division of Marine Fisheries
-I worked with Dr. Greg Skomal and Dr. Jeff Kneebone from New england aquarium to study juvenile sand tiger sharks in Boston Harbor
+I worked with Dr. Greg Skomal and Dr. Jeff Kneebone from New England Aquarium to study the movements and residency of juvenile sand tiger sharks in Boston Harbor
 
 ### Monterey Bay Aquarium
-I worked with Dr. Sal Jorgenson on correcting accelerometer data from tags that were injested my white sharks
+I worked with Dr. Sal Jorgenson on correcting accelerometer data from tags that were ingested my white sharks
 
 ### Ecorp Consulting
 I worked on a project studying barred sand bass and bay bass movements in reference to pile driving in San Diego Harbor

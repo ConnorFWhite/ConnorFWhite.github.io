@@ -9,7 +9,7 @@ title: "Teaching and Mentoring Experience"
 <img src="images/HarvardForest.jpg" style="width:40%; border:0px solid; margin-right: 20px" align="left">
 
 * **Resident Tutor** , Lowell House, Harvard University
-  * From Fall 2017 through present I have been a resident tutor at Lowell House, one of the dorms at Harvard College. I live in the building with students where I am additional resource and daily interact with a wide range of students where I provide advice on both academic and personal matters. Within the house I am in charge of the intermural program, as well as part of the Fellowship team and the Lowell Speeches Program.
+  * From Fall 2017 through present I have been a resident tutor at Lowell House, one of the dorms at Harvard College. I live in the building with students where I am additional resource and daily interact with a wide range of students where I provide advice on both academic and personal matters. Within the house I am in charge of the intramural program, as well as part of the fellowship team and the Lowell Speeches Program.
 
 <br>
 
@@ -17,18 +17,16 @@ title: "Teaching and Mentoring Experience"
 
 ### Classes
 
+<img style="float: right; width:40%; border:0px solid; margin-right: 10px" src="images/Fishcourseseining2.jpg">
 
 * **Evolutionary Human Anatomy and Physiology** (LS2), Harvard University
-  * During Fall of 2020 I worked as a grading assistant for Dr. George Lauder, Dr. Dan Leiberman, and Dr. Andrew  Bieweiner. This course is designed as an introductory anatomy and Physiology. I worked as a grader during the transistion to online learning, where I weekly graded 160 short anwser (20 sentence) questions.
-
-<img style="float: right; width:30%; border:0px solid; margin-right: 10px" src="images/Snorkle.jpg">
+  * During Fall of 2021 I was a teaching fellow for Dr. George Lauder, Dr. Dan Leiberman, and Dr. Andrew  Bieweiner. This course is designed as an introduction to anatomy and Physiology. I ran a lab section where I was led students through dissections as well physiological experiments. I had previously (Fall 2020) as I worked as a grader during the transition to online learning, where I weekly graded 160 short answer (20 sentence) questions.
 
 * **Biology of Fishes** (OEB 130), Harvard University
-  * During Spring of 2018 I worked as a teaching assistant for Dr. George Lauder providing an overview of fish Biology. This was a course of approximately 60 primarily upperclass students. As a broad course we discussed fish anatomy, physiology, evolution and behavior. I led students in a weekly fish disesction.
+  * During Spring of 2018 and 2021, I worked as a teaching assistant for Dr. George Lauder providing an overview of fish Biology. This was a course of approximately 60 primarily upper class students. As a broad course we discussed fish anatomy, physiology, evolution and behavior. I led students in a weekly fish identification and dissection.
 
 * **Fisheries Science** (OSI 431), The Ocean Institute, California State University
   * During the fall of 2015 I worked as a teaching assistant for Dr. Chris Lowe 4 week field fisheries science class. This was during a field semester with students living at the University of Southern California's Wrigley field station on Catalina Island. I mainly led students in lab based dissections as well as field excersizes to learn fish ID, as well as field methods such as snorkle transects and boat driving.
-
 
 * **Marine Community Ecology** (OSI 421), The Ocean Institute, California State University
    * During the fall of 2015 I worked as a teaching assistant for Dr. Bengt Allens 4 week field Marine Ecology class. This was during a field semester with students living at the University of Southern California's Wrigley field station on Catalina Island. I led students in lab excersizes as well as field studies, like inter and sub tidal transects and species ID
