@@ -19,6 +19,9 @@ title: "Teaching and Mentoring Experience"
 
 <img style="float: right; width:40%; border:0px solid; margin-right: 10px" src="images/Fishcourseseining2.jpg">
 
+* **Fundamentals of Marine Biology** (OEB 60), Harvard University
+  * During spring of 2022 I was a teaching fellow for Dr. Aaron Hartmann. This course is designed as an introduction to marine science for both science and non science majors. I ran one of the interactive sections for this class where I managed a group of 30 students.
+
 * **Evolutionary Human Anatomy and Physiology** (LS2), Harvard University
   * During Fall of 2021 I was a teaching fellow for Dr. George Lauder, Dr. Dan Leiberman, and Dr. Andrew  Bieweiner. This course is designed as an introduction to anatomy and Physiology. I ran a lab section where I was led students through dissections as well physiological experiments. I had previously (Fall 2020) as I worked as a grader during the transition to online learning, where I weekly graded 160 short answer (20 sentence) questions.
 
