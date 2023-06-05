@@ -13,8 +13,8 @@
 
 <title>Teaching and Mentoring Experience</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -140,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -173,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -182,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -235,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -269,25 +270,25 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="connor.white@gmail.com">
-    <span class="fas fa-envelope fa-lg"></span>
+    <span class="fa fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="http://github.com/ConnorFWhite">
-    <span class="fas fa-github fa-lg"></span>
+    <span class="fa fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/ConnorFWhite">
-    <span class="fas fa-twitter fa-lg"></span>
+    <span class="fa fa-twitter fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/connor-white-2bb21747/">
-    <span class="fas fa-linkedin fa-lg"></span>
+    <span class="fa fa-linkedin fa-lg"></span>
      
   </a>
 </li>
@@ -306,13 +307,13 @@ $(document).ready(function () {
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<div id="mentor" class="section level3">
-<h3>Mentor</h3>
+<div id="mentoring" class="section level3">
+<h3>Mentoring</h3>
 <p><img src="images/HarvardForest.jpg" style="width:40%; border:0px solid; margin-right: 20px" align="left"></p>
 <ul>
 <li><strong>Resident Tutor</strong> , Lowell House, Harvard University
 <ul>
-<li>From Fall 2017 through present I have been a resident tutor at Lowell House, one of the dorms at Harvard College. I live in the building with students where I am additional resource and daily interact with a wide range of students where I provide advice on both academic and personal matters. Within the house I am in charge of the intramural program, as well as part of the fellowship team and the Lowell Speeches Program.</li>
+<li>From Fall 2017 through Spring 2022 I was a resident tutor at Lowell House, one of the dorms at Harvard College. In this role, I lived in the building with students as an additional resource and interacted with a wide range of students on both academic and personal matters. Within the house, I was heavily involved in the the intramural sports and Lowell Speeches Program, as well as assisting the fellowships team. Since my departure in 2022, I have remained involved in the Lowell community as a non resident tutor, where I still play intramural sports and provide advice.</li>
 </ul></li>
 </ul>
 <p><br></p>
@@ -322,32 +323,32 @@ $(document).ready(function () {
 <h3>Classes</h3>
 <p><img style="float: right; width:40%; border:0px solid; margin-right: 10px" src="images/Fishcourseseining2.jpg"></p>
 <ul>
+<li><strong>Biology of Fishes</strong> (OEB 130), Harvard University
+<ul>
+<li>During Spring of 2018, 2021, and 2023, I worked as a teaching assistant for Dr. George Lauder providing an overview of fish Biology. This was a course of 25 - 60 primarily upper class undergraduate students. As a broad course we discussed fish anatomy, physiology, evolution and behavior. I gave a few course lectures and I led students in a weekly fish identification and dissection lab.</li>
+</ul></li>
 <li><strong>Fundamentals of Marine Biology</strong> (OEB 60), Harvard University
 <ul>
-<li>During spring of 2022 I was a teaching fellow for Dr. Aaron Hartmann. This course is designed as an introduction to marine science for both science and non science majors. I ran one of the interactive sections for this class where I managed a group of 30 students.</li>
+<li>During spring of 2022 I was a teaching fellow for Dr. Aaron Hartmann. This course is designed as an introduction to marine science for both science and non science majors. I ran one of the interactive discussion sections for this class where I managed a group of 30 students.</li>
 </ul></li>
 <li><strong>Evolutionary Human Anatomy and Physiology</strong> (LS2), Harvard University
 <ul>
-<li>During Fall of 2021 I was a teaching fellow for Dr. George Lauder, Dr. Dan Leiberman, and Dr. Andrew Bieweiner. This course is designed as an introduction to anatomy and Physiology. I ran a lab section where I was led students through dissections as well physiological experiments. I had previously (Fall 2020) as I worked as a grader during the transition to online learning, where I weekly graded 160 short answer (20 sentence) questions.</li>
-</ul></li>
-<li><strong>Biology of Fishes</strong> (OEB 130), Harvard University
-<ul>
-<li>During Spring of 2018 and 2021, I worked as a teaching assistant for Dr. George Lauder providing an overview of fish Biology. This was a course of approximately 60 primarily upper class students. As a broad course we discussed fish anatomy, physiology, evolution and behavior. I led students in a weekly fish identification and dissection.</li>
+<li>During Fall of 2021 I was a teaching fellow for Dr. George Lauder, Dr. Dan Leiberman, and Dr. Andrew Bieweiner. This course is designed as an introduction to anatomy and physiology and uses an evolutionary lens to compare human systems to those in other vertebrates. I ran a lab section where I was led students through various dissections as well physiological experiments.</li>
 </ul></li>
 <li><strong>Fisheries Science</strong> (OSI 431), The Ocean Institute, California State University
 <ul>
-<li>During the fall of 2015 I worked as a teaching assistant for Dr. Chris Lowe 4 week field fisheries science class. This was during a field semester with students living at the University of Southern California’s Wrigley field station on Catalina Island. I mainly led students in lab based dissections as well as field excersizes to learn fish ID, as well as field methods such as snorkle transects and boat driving.</li>
+<li>During the fall of 2015 I worked as a teaching assistant for Dr. Chris Lowe’s 4 week field fisheries science class. This was during a field semester with students living at the University of Southern California’s Wrigley field station on Catalina Island. I led students in lab based dissections to undestand fish anatomy. Additionally, I extensively trained students in field based methods to learn fish ID, snorkel transect transect methodology and boat driving.</li>
 </ul></li>
 <li><strong>Marine Community Ecology</strong> (OSI 421), The Ocean Institute, California State University
 <ul>
-<li>During the fall of 2015 I worked as a teaching assistant for Dr. Bengt Allens 4 week field Marine Ecology class. This was during a field semester with students living at the University of Southern California’s Wrigley field station on Catalina Island. I led students in lab excersizes as well as field studies, like inter and sub tidal transects and species ID</li>
+<li>During the fall of 2015 I worked as a teaching assistant for Dr. Bengt Allen’s 4 week field Marine Ecology class. This was during a field semester with students living at the University of Southern California’s Wrigley field station on Catalina Island. I led students in both lab and field exercises, to learn about inter- and sub-tidal ecology with a focus on invertebrate and algal transects and species ID.</li>
 </ul></li>
 </ul>
 <p><img style="float: right; width:40%; border:0px solid; margin-right: 10px" src="images/ClassMud.jpg"></p>
 <ul>
 <li><strong>Directed Research (OSI 490)</strong>, The Ocean Institute, California State University
 <ul>
-<li>During the last 4 weeks of students Catalina Semester students were in charge of conducting their own field research project which was ultimately presented as their final project. I aided students in study design, field research, statistical analysis, and results writing.</li>
+<li>During the last 4 weeks of students each Catalina Semester student was in charge of conducting their own field research project which was ultimately presented as their final project. I aided students in study design, field research, statistical analysis, and results writing.</li>
 </ul></li>
 <li><strong>Marine Biology</strong> (Bio 153), California State University Long Beach
 <ul>

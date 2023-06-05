@@ -13,8 +13,8 @@
 
 <title>Experience</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -140,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -173,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -182,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -235,7 +236,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -269,25 +270,25 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="connor.white@gmail.com">
-    <span class="fas fa-envelope fa-lg"></span>
+    <span class="fa fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="http://github.com/ConnorFWhite">
-    <span class="fas fa-github fa-lg"></span>
+    <span class="fa fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/ConnorFWhite">
-    <span class="fas fa-twitter fa-lg"></span>
+    <span class="fa fa-twitter fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/connor-white-2bb21747/">
-    <span class="fas fa-linkedin fa-lg"></span>
+    <span class="fa fa-linkedin fa-lg"></span>
      
   </a>
 </li>
@@ -307,47 +308,9 @@ $(document).ready(function () {
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <p>In addition to the academic intuitions where I completed my educational degrees, I have had the privilege of working for a diversity of institutions on a wide array of projects.</p>
-<p>A large part of my career has been spent working for non-profit institutions. I started my experience in tagging animals while working at the Center for Shark research at Mote Marine Laboratory in Sarasota Florida. After finishing my Masters, I was hired as a staff scientist at in the Department of Conservation and Research at Monterey Bay aquarium. Most recently I was research technician at the Anderson Cabot Center for Ocean Life at the New England Aquarium, whom I continute to collaborate with.</p>
+<p>A large part of my career has been spent working for non-profit institutions. I started my experience in tagging animals while working at the Center for Shark research at Mote Marine Laboratory in Sarasota Florida. After finishing my Masters, I was hired as a staff scientist at in the Department of Conservation and Research at Monterey Bay Aquarium. Most recently I was research technician at the Anderson Cabot Center for Ocean Life at the New England Aquarium, whom I continue to collaborate with.</p>
 <p>I have experience in the private sector working for consulting firms. I started my career at Saltwater Inc, working as an onboard observer in the Alaskan groundfish fishery. Later on, I established connections with Ecorp Consulting, where I was hired for my expertise in acoustic telemetry to investigate the impacts of pile driving on the natural behavior and movements of sand bass and bay bass.</p>
-<p>I additionally have experience working with governmental agencies, I was a research Technician at the Massachusetts Division of Marine Fisheries, studying the residency and movements of Sand Tiger Sharks in Boston Harbor. As a fisheries Observer I worked closely with officials at the National Marine Fisheries Service, and during my Undergrad I worked for the National Park Service monitoring stream quality.</p>
-<div id="harvard" class="section level3">
-<h3>Harvard</h3>
-<p>As a member of George Lauders Biomechanics Lab I w</p>
-</div>
-<div id="anderson-cabot-center-for-ocean-life-at-new-england-aquarium" class="section level3">
-<h3>Anderson Cabot Center for Ocean Life at New England Aquarium</h3>
-<p><img style="float: right; width:30%; border:0px solid; margin-left: 10px" src="images/SandbarTagging.jpg"></p>
-<p>I conducted research on a diversity of topics, including red drum post release mortality, sea turtle nesting behavior, burmese python behavior,post release mortality of sand bar sharks in the shore based fishery, and post release mortality of sharks in a long line fishery.</p>
-</div>
-<div id="massachusetts-division-of-marine-fisheries" class="section level3">
-<h3>Massachusetts Division of Marine Fisheries</h3>
-<p>I worked with Dr. Greg Skomal and Dr. Jeff Kneebone from New England Aquarium to study the movements and residency of juvenile sand tiger sharks in Boston Harbor</p>
-</div>
-<div id="monterey-bay-aquarium" class="section level3">
-<h3>Monterey Bay Aquarium</h3>
-<p>I worked with Dr. Sal Jorgenson on correcting accelerometer data from tags that were ingested my white sharks</p>
-</div>
-<div id="ecorp-consulting" class="section level3">
-<h3>Ecorp Consulting</h3>
-<p>I worked on a project studying barred sand bass and bay bass movements in reference to pile driving in San Diego Harbor</p>
-</div>
-<div id="california-state-university-long-beach" class="section level3">
-<h3>California State University Long Beach</h3>
-<p>I worked on a diversity of projects, but mainly spent my time, developing autonomous vehicles to track sharks, and studying the movements of juvenile white sharks in Southern California.</p>
-</div>
-<div id="mote-marine-laboratory" class="section level3">
-<h3>Mote Marine Laboratory</h3>
-<p><img style="float: right; width:30%; border:0px solid; margin-left: 10px" src="images/HoldTag.JPG"></p>
-<p>I first got involved in tagging animals at mote when I was an intern and then research technician with Dr. Nick Whitney. I worked on a project where we tagged Blacktip sharks using recreational fishing methods to assess the species post release mortality. From this project I became involved in other projects such as juvenile sea turtle behavior.</p>
-</div>
-<div id="saltwater-inc." class="section level3">
-<h3>Saltwater Inc.</h3>
-<p>After graduating, I worked as a fisheries Observer in the Alaskan groundfish fishery. I worked on commercial fishing boats of multiple gear types (bottom lonling, pot, trawl) sampling their catch for the National Marine Fisheries service</p>
-</div>
-<div id="william-and-mary" class="section level3">
-<h3>William and Mary</h3>
-<p>During my undergrad, I studied intertidal snail egg clustering at Bowdoin Colleges Marine lab, and then the potential for trait mediated indirect interations between Blue crabs, oyster drill, and oysters at the Virginia Institute of Marine Sciences marine lab in Wachapreauge Virginia</p>
-</div>
+<p>Finally, I have worked with a diversity of governmental agencies. I was a research Technician at the Massachusetts Division of Marine Fisheries, studying the residency and movements of Sand Tiger Sharks in Boston Harbor. As a fisheries Observer I worked closely with officials at the National Marine Fisheries Service, and during my Undergrad I worked for the National Park Service monitoring stream quality. Furthermore I have collaborated with researchers at USGS, NOAA, NMFS, NPS on a diversity of different projects.</p>
 
 
 
