@@ -20,6 +20,8 @@ title: "Presentations"
 
 * **White CF**, Clark CM, Lowe CG. 2019. Shark tracking robots: Development of autonomous Vehicles for tracking animals. American Elasmobranch Society. Snowbird UT.
 
+<img style="float: right; width:50%; border:0px solid; margin-left: 10px" src="images/BLSTalk.jpg">
+
 * **White CF**, Moxley JH, Gleiss AC, Chapple TK, Kanive PE, Anderson SD, Carlisle AB, Block BA, Jorgensen SJ. 2017. Fine scale variability in stomach temperatures of white sharks (Carcharodon carcharias) links to digestion and homeothermy. 6th International Biologging Conference. Konstanz, Germany.
 
 * **White CF**, Lyons K, Weng K, Winkler C, Jorgensen SJ, O'Sullivan J, Lowe CG. 2016. Movement of Juvenile White Sharks in Southern California: Predicting Future Nursery Habitat. Annual Meeting of the American Elasmobranch Society. New Orleans, LA.
