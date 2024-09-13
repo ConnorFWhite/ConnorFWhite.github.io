@@ -10,7 +10,7 @@ title: "Welcome"
 
 <br>
 
-Currently I am a graduate student in the [Department of Organismic and Evolutionary Biology at Harvard University](https://oeb.harvard.edu/). I am broadly interested in Ecology. My primary interests are using interdiscipliary approaches integrating technology to anwser questions about animal movement and behavior.
+Currently I am a graduate student in the [Department of Organismic and Evolutionary Biology at Harvard University](https://oeb.harvard.edu/). I am broadly interested in behavioral ecology. My primary interests are using interdiscipliary approaches integrating technology to anwser questions about animal movement and behavior.
 
 
 
