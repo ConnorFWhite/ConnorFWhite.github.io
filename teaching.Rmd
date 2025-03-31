@@ -51,12 +51,12 @@ title: "Teaching and Mentoring Experience"
 
 ### Workshops
 
-* **How to Build a video logger**, Anderson Cabot Center for Ocean Life
-  * During Winter 2025 I developed and led a 3 day workshop, where I taught researchers how to construct a submersible video camera designed for being attached to an animal from low cost commercially available components.
+* **How to build a video logger**, Anderson Cabot Center for Ocean Life
+  * During Winter 2025 I developed and led a 3 day workshop. I taught researchers how to construct a submersible video camera designed for being attached to an animal from low cost commercially available components.
 
 * **Biologging from the Beginning**, Woods Hole Oceanographic Institute
   * During the Fall of 2023 I developed and led a 5 day workshop aimed at teaching how to analyze data from animal borne dataloggers. This work shop was focused on what type of data these sensors(Accelerometers, gyroscopes and magnetometers) provide, best practices and the theory for analysis, and finally implementing these analysis directly in R to create an analytical pipeline.
   
 
-* **R for Biologists**, Harvard University
+* **R for biologists**, Harvard University
   * During the summer of 2020 I virtually led summer REU students(~10) in a weekly workshop, where I taught them an introduction to R. I taught students how to bring data into r, manipulate data, plot data, and statistically analyze data.
