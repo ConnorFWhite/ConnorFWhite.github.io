@@ -6,6 +6,8 @@ title: "Presentations"
 
 <img style="float: right; width:50%; border:0px solid; margin-left: 10px" src="images/NelsonSymposium.JPG">
 
+* **White CF**. 2024. From the lab to the field: studying fish locomotor dynamics using animal borne biologgers.  PhD Defense, Department of Organismic and Evolutionary Biology, Harvard University. Cambridge, MA.[**Available**](https://youtu.be/3Qxp1LBuiq4)
+
 * **White CF**, Lauder GV. 2024. Why stop at one? Using multiple IMU tags to reconstruct fish locomotion.  8th International Biologging Conference. Tokyo Japan.
 
 * **White CF** 2023. Beyond the Lab: Using biologgers to understand fish locomotor behavior. G4 Symposium. Harvard University. [**Available**](https://youtu.be/3Q1hwtbIm4g)
