@@ -24,7 +24,7 @@ title: "Presentations"
 
 <img style="float: right; width:50%; border:0px solid; margin-left: 10px" src="images/BLSTalk.jpg">
 
-* **White CF**, Moxley JH, Gleiss AC, Chapple TK, Kanive PE, Anderson SD, Carlisle AB, Block BA, Jorgensen SJ. 2017. Fine scale variability in stomach temperatures of white sharks (*Carcharodon carcharias*) links to digestion and homeothermy. 6th International Biologging Conference. Konstanz, Germany. [here](files/White_Biologging_Temp_Poster.pdf)
+* **White CF**, Moxley JH, Gleiss AC, Chapple TK, Kanive PE, Anderson SD, Carlisle AB, Block BA, Jorgensen SJ. 2017. Fine scale variability in stomach temperatures of white sharks (*Carcharodon carcharias*) links to digestion and homeothermy. 6th International Biologging Conference. Konstanz, Germany. [**Available**](files/White_Biologging_Temp_Poster.pdf)
 
 * **White CF**, Lyons K, Weng K, Winkler C, Jorgensen SJ, O'Sullivan J, Lowe CG. 2016. Movement of Juvenile White Sharks in Southern California: Predicting Future Nursery Habitat. Annual Meeting of the American Elasmobranch Society. New Orleans, LA.
 
@@ -34,7 +34,7 @@ title: "Presentations"
 
 * **White CF**, Lin Y, Hsiung J, Clark CM, Lowe CG. 2015. Habitat Selection of the Leopard Shark, Triakis semifasciata, Using Fine Spatio-Temporal Movement and Temperature Data. American Elasmobranch Society. Reno, NV.
 
-* **White CF**, Hart KM, Cherkiss MS, Rockford MR, Mazzotti FJ, Whitney NM. 2014. Activity Patterns and Thermoregulatory Behavior of the Invasive Burmese Python, Python molurus bivittatus, in the Florida Everglades , USA.  5th International Biologging Symposium. Strasbourg, France.[here](files/White_Biologging_Python_Poster.pdf)
+* **White CF**, Hart KM, Cherkiss MS, Rockford MR, Mazzotti FJ, Whitney NM. 2014. Activity Patterns and Thermoregulatory Behavior of the Invasive Burmese Python, Python molurus bivittatus, in the Florida Everglades , USA.  5th International Biologging Symposium. Strasbourg, France. [**Available**](files/White_Biologging_Python_Poster.pdf)
 
 * **White CF**, Lin Y, Piersall R, Clark CM, Lowe CG. 2014. Using Tracking Robots and Accelerometers to Determine Fine Scale Behaviors and Habitat Selection of the Leopard Shark, Triakis semifasciata. First North East pacific Shark Symposium. Seattle, WA.
 
@@ -44,13 +44,13 @@ title: "Presentations"
 
 * **White CF**, Allen JD. 2011. The Effect of Egg Capsule Clustering on Embryonic Survival in the Dogwhelk Nucella lapillus. Society of Integrative and Comparative Biology. Salt Lake City, UT. pp E266-E266.
 
-
+<br>
 
 ## Contributed Presentations
 
 * Chaumel J, **White CF**, Lauder GV. 2025. The tail of Myliobatid stingrays: function for controlling body stability. Annual Meeting of the Society for Integrative and Comparative Biology. Atlanta, Georgia.
 
-*Elcock J, Arostegui M, **White CF**, Braun CD. 2025. Fine Scale Movement of Whale Sharks in the North West Atlantic. Annual Meeting of the Society for Integrative and Comparative Biology. Atlanta, Georgia.
+* Elcock J, Arostegui M, **White CF**, Braun CD. 2025. Fine Scale Movement of Whale Sharks in the North West Atlantic. Annual Meeting of the Society for Integrative and Comparative Biology. Atlanta, Georgia.
 
 * Braun CD, Arostegui MC, Cones S, Willis C, **White CF**, Gaube P, Thorrold SR. Using top predators and novel technologies to explore and understand the deep ocean. 2024. International Billfish Symposium. San Diego CA
 
@@ -72,7 +72,7 @@ title: "Presentations"
 
 * Nosal AP, Cartamil DP, Lam CH, Bellquist LF, Ben-Aderet NJ, **White CF**, Logan RK, Freedman RM, Lowe CG, Semmens BX, Hastings PA. 2019. Triennial Philopatry in the Eastern North Pacific Soupfin Shark (*Galeorhinus galeus*). American Elasmobranch Society. Snowbird UT
 
-* Popp M, Wainwright DK, **White CF**, Bernal D, Lauder GV. 2019. Thresher shark tails: Denticle morphology in comparison to other pelagic sharks. Society of Integrative and Comparative Biology. Tampa, FL.[here](files/Popp_SICB_2019.jpg)
+* Popp M, Wainwright DK, **White CF**, Bernal D, Lauder GV. 2019. Thresher shark tails: Denticle morphology in comparison to other pelagic sharks. Society of Integrative and Comparative Biology. Tampa, FL. [**Available**](files/Popp_SICB_2019.jpg)
 
 * Whitney NM, Lear KO, **White CF**. 2018. Bringing Data to the Surface: The Use of Acceleration Data Loggers to Study Post-Release Mortality. Annual Meeting of the American Fisheries Society. Atlantic City, NJ.
 
@@ -86,7 +86,7 @@ title: "Presentations"
 
 * Lowe CG, **White CF**, Logan RK, Meese EN, Burns ES, Clevenstine A, Winkler C, Jorgensen S. O'Sullivan J. Juvenile white shark nursery behavior and habitat use in southern california. Sharks International Joao Pessoda, Brazil 2018
 
-* Moxley JH, **White CF**, Gleiss AC, Chapple TK, Kanive PE, Anderson SD, Jorgensen SJ. 2017 Development and assessment of a generalizable correction method and R package gRumble for orienting unfixed biologging devices in the stomach of white sharks. 6th Internaitonal Biologging Conference. Konstanz, Germany.[here](files/Moxley_Biologging_Grumble_Poster.pdf)
+* Moxley JH, **White CF**, Gleiss AC, Chapple TK, Kanive PE, Anderson SD, Jorgensen SJ. 2017 Development and assessment of a generalizable correction method and R package gRumble for orienting unfixed biologging devices in the stomach of white sharks. 6th Internaitonal Biologging Conference. Konstanz, Germany. [**Available**](files/Moxley_Biologging_Grumble_Poster.pdf)
 
 * Nosal AP, Cartamil DP, Lam CH, Bellquist LF, Ben-Aderet NJ, **White CF**, Logan RK, Freedman RM, Lowe CG, Semmens BX, Hastings PA. 2017. Movement Ecology of the Soupfin Shark (Galeorhinus galeus) in the Eastern North Pacific. 4th Annual International Fish Telemetry Conference. Cairns, Australia
 
