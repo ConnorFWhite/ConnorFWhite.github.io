@@ -7,6 +7,8 @@ title: "Published articles"
 
 A list of my publications is available on [Google scholar](https://scholar.google.com/citations?user=Xsxg0-sAAAAJ&hl=en).
 
+**37)** **White CF**,Castro-Santos T, Goerig E, Lauder GV. *In Review*. Fish locomotor dynamics quantified using multiple inertial measurement units. *Journal of Experimental Biology*
+
 **36)** Chaumel J, **White CF**, Lauder GV. *In Review*. The tail of myliobatid stingrays controls body stability. *Journal of Experimental Biology*
 
 **35)** **White CF**, Lauder GV. 2025. Are swimming fish dual oscillator systems? A case study using free-swimming smooth dogfish sharks (*Mustelus canis*). *Journal of Experimental Biology*
