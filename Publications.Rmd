@@ -5,11 +5,15 @@ title: "Published articles"
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-A list of my publications is available on [Google scholar](https://scholar.google.com/citations?user=Xsxg0-sAAAAJ&hl=en).
+A list of my publications is access available on [Google scholar](https://scholar.google.com/citations?user=Xsxg0-sAAAAJ&hl=en).
 
-**37)** **White CF**,Castro-Santos T, Goerig E, Lauder GV. *In Review*. Fish locomotor dynamics quantified using multiple inertial measurement units. *Journal of Experimental Biology*
+**39)** **White CF**, Castro-Santos T, Goerig E, Lauder GV. *In Submission*. Fish locomotor dynamics quantified using multiple inertial measurement units.
 
-**36)** Chaumel J, **White CF**, Lauder GV. *In Review*. The tail of myliobatid stingrays controls body stability. *Journal of Experimental Biology*
+**38)** Hart KM, **White CF**, Shaver DJ, Lamont MM, Cherkiss MS, Crowder AG, Whitney NM. *In Review*. Biologging to identify nesting and non-nesting emergences for four species of imperiled sea turtles.
+
+**37)** Lauder GV, **White CF**, Ramesh D, Pan Y, Chaumel J, Zhang Y. *In Review*. Six questions in fish locomotor biology and the technical approaches needed to address them. JEB commentary, *Journal of Experimental Biology*
+
+**36)** Chaumel J, **White CF**, Lauder GV. *Accepted*. The tail of myliobatid stingrays controls body stability. *Royal Society Open Scienvce*
 
 **35)** **White CF**, Lauder GV. 2025. Are swimming fish dual oscillator systems? A case study using free-swimming smooth dogfish sharks (*Mustelus canis*). *Journal of Experimental Biology*
 
