@@ -7,13 +7,15 @@ title: "Published articles"
 
 A list of my publications is access available on [Google scholar](https://scholar.google.com/citations?user=Xsxg0-sAAAAJ&hl=en).
 
-**39)** **White CF**, Castro-Santos T, Goerig E, Lauder GV. *In Submission*. Fish locomotor dynamics quantified using multiple inertial measurement units.
+**40)** **White CF**, Castro-Santos T, Goerig E, Lauder GV. *In Review*. Fish locomotor dynamics quantified using multiple inertial measurement units.*Royal Society Open Science*
 
-**38)** Hart KM, **White CF**, Shaver DJ, Lamont MM, Cherkiss MS, Crowder AG, Whitney NM. *In Review*. Biologging to identify nesting and non-nesting emergences for four species of imperiled sea turtles.
+**39)** Cooper SB, **White CF**, Lauder GV, Chaumel J. *In Review*. Myliobatid ray gliding dynamics: experimental tests of body shape and tail length on stability. *Integrative Organismal Biology* 
 
-**37)** Lauder GV, **White CF**, Ramesh D, Pan Y, Chaumel J, Zhang Y. *In Review*. Six questions in fish locomotor biology and the technical approaches needed to address them. JEB commentary, *Journal of Experimental Biology*
+**38)** Lauder GV, **White CF**, Ramesh D, Pan Y, Chaumel J, Zhang Y. *In Review*. Six questions in fish locomotor biology and the technical approaches needed to address them. JEB commentary, *Journal of Experimental Biology*
 
-**36)** Chaumel J, **White CF**, Lauder GV. *Accepted*. The tail of myliobatid stingrays controls body stability. *Royal Society Open Scienvce*
+**37)** Hart KM, **White CF**, Shaver DJ, Lamont MM, Cherkiss MS, Crowder AG, Whitney NM. *Accepted*. Biologging to identify nesting and non-nesting emergences for four species of imperiled sea turtles. *Frontiers in Marine Science*
+
+**36)** Chaumel J, **White CF**, Lauder GV. *2025*. The tail of myliobatid stingrays controls body stability. *Royal Society Open Science* 12(11) 251269
 
 **35)** **White CF**, Lauder GV. 2025. Are swimming fish dual oscillator systems? A case study using free-swimming smooth dogfish sharks (*Mustelus canis*). *Journal of Experimental Biology*
 
