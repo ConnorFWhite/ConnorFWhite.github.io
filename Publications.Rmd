@@ -12,15 +12,21 @@ A list of my publications and access is also available on [Google scholar](https
 
 **40\.** **White CF**, Castro-Santos T, Goerig E, Lauder GV. *In Review*. Fish locomotor dynamics quantified using multiple inertial measurement units.*Royal Society Open Science*
 
-**39\.** Cooper SB, **White CF**, Lauder GV, Chaumel J. *In Review*. Myliobatid ray gliding dynamics: experimental tests of body shape and tail length on stability. *Integrative Organismal Biology* 
 
-**38\.** Lauder GV, **White CF**, Ramesh D, Pan Y, Chaumel J, Zhang Y. *In Review*. Six questions in fish locomotor biology and the technical approaches needed to address them. JEB commentary, *Journal of Experimental Biology*
 </div>
 
+#### <u> 2026 </u>
+<div style="text-indent: -30px; padding-left: 50px;">
+
+**39\.** Lauder GV, **White CF**, Ramesh D, Pan Y, Chaumel J, Zhang Y. *Accepted*. Six questions in fish locomotor biology and the technical approaches needed to address them. JEB commentary, *Journal of Experimental Biology*
+
+**38\.** Cooper SB, **White CF**, Lauder GV, Chaumel J. *2026*. Myliobatid ray gliding dynamics: experimental tests of body shape and tail length on stability. *Integrative Organismal Biology* 8(1) obag002
+</div>
 
 #### <u> 2025 </u>
 <div style="text-indent: -30px; padding-left: 50px;">
-**37\.** Hart KM, **White CF**, Shaver DJ, Lamont MM, Cherkiss MS, Crowder AG, Whitney NM. *Accepted*. Biologging to identify nesting and non-nesting emergences for four species of imperiled sea turtles. *Frontiers in Marine Science*
+
+**37\.** Hart KM, **White CF**, Shaver DJ, Lamont MM, Cherkiss MS, Crowder AG, Whitney NM. *2025*. Biologging to identify nesting and non-nesting emergences for four species of imperiled sea turtles. *Frontiers in Marine Science* 12 1691053
 
 **36\.** Chaumel J, **White CF**, Lauder GV. *2025*. The tail of myliobatid stingrays controls body stability. *Royal Society Open Science* 12(11) 251269    [PDF](files/Papers/Chaumeletal_2025RoyalSocietyOpenScience.pdf)
 
