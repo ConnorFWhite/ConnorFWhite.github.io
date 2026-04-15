@@ -18,7 +18,7 @@ A list of my publications and access is also available on [Google scholar](https
 #### <u> 2026 </u>
 <div style="text-indent: -30px; padding-left: 50px;">
 
-**39\.** Lauder GV, **White CF**, Ramesh D, Pan Y, Chaumel J, Zhang Y. *Accepted*. Six questions in fish locomotor biology and the technical approaches needed to address them. JEB commentary, *Journal of Experimental Biology*
+**39\.** Lauder GV, **White CF**, Ramesh D, Pan Y, Chaumel J, Zhang Y. *2026*. Six questions in fish locomotor biology and the technical approaches needed to address them. JEB commentary, *Journal of Experimental Biology* 229(7); jeb251375
 
 **38\.** Cooper SB, **White CF**, Lauder GV, Chaumel J. *2026*. Myliobatid ray gliding dynamics: experimental tests of body shape and tail length on stability. *Integrative Organismal Biology* 8(1) obag002
 </div>
