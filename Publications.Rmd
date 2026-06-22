@@ -10,13 +10,16 @@ A list of my publications and access is also available on [Google scholar](https
 #### <u> *In review* </u>
 <div style="text-indent: -30px; padding-left: 50px;">
 
-**40\.** **White CF**, Castro-Santos T, Goerig E, Lauder GV. *In Review*. Fish locomotor dynamics quantified using multiple inertial measurement units.*Royal Society Open Science*
+**42\.** **White CF**, Logan RK, Lowe CG. *Submitted*. Celestial light entrains body posture in a marine predator
 
+**41\.** Lear KO, Grubbs RD, Marshall HM, Morris JJ, **White CF**, Driggers WB, Prohaska BK, Frazier B, Andres AM, Gelsleichter J, Heuter RE, Whitney NM. *Submitted*. Post-release mortality of hammerhead sharks, *Sphyrna mokarran* and *Sphyrna lewini* after discard from commercial longline fisheries.
 
 </div>
 
 #### <u> 2026 </u>
 <div style="text-indent: -30px; padding-left: 50px;">
+
+**40\.** **White CF**, Castro-Santos T, Goerig E, Lauder GV. *Accepted*. Fish locomotor dynamics quantified using multiple inertial measurement units.*Royal Society Open Science*
 
 **39\.** Lauder GV, **White CF**, Ramesh D, Pan Y, Chaumel J, Zhang Y. *2026*. Six questions in fish locomotor biology and the technical approaches needed to address them. JEB commentary, *Journal of Experimental Biology* 229(7); jeb251375
 
