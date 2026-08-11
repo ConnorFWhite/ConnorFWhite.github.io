@@ -7,12 +7,16 @@ title: "Published articles"
 
 A list of my publications and access is also available on [Google scholar](https://scholar.google.com/citations?user=Xsxg0-sAAAAJ&hl=en).
 
-#### <u> *In review* </u>
+#### <u> *In review and Revision* </u>
 <div style="text-indent: -30px; padding-left: 50px;">
+
+**44\.** **White CF**, Frazier BS, Weber DN, Whitney NM. *In Revision*. Survival and Swimming Behavior of Red Drum (*Sciaenops ocellatus*) Following Recreational Catch and Release Fishing. 
+
+**43\.** Thandiackal R, **White CF**, Zhang Y, Guo J, Pan Y, Dong H, Lauder GV. *Submitted*. Passive thrust production for animal propulsion: Fish exploit velocity gradients to conserve energy. 
 
 **42\.** **White CF**, Logan RK, Lowe CG. *Submitted*. Celestial light entrains body posture in a marine predator
 
-**41\.** Lear KO, Grubbs RD, Marshall HM, Morris JJ, **White CF**, Driggers WB, Prohaska BK, Frazier B, Andres AM, Gelsleichter J, Heuter RE, Whitney NM. *Submitted*. Post-release mortality of hammerhead sharks, *Sphyrna mokarran* and *Sphyrna lewini* after discard from commercial longline fisheries.
+**41\.** Lear KO, Grubbs RD, Marshall HM, Morris JJ, **White CF**, Driggers WB, Prohaska BK, Frazier B, Andres AM, Gelsleichter J, Heuter RE, Whitney NM. *In Revision*. Post-release mortality of hammerhead sharks, *Sphyrna mokarran* and *Sphyrna lewini* after discard from commercial longline fisheries.
 
 </div>
 
