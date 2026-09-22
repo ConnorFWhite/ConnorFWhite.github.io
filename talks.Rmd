@@ -4,7 +4,9 @@ title: "Presentations"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img style="float: right; width:50%; border:0px solid; margin-left: 10px" src="images/NelsonSymposium.JPG">
+<img style="float: right; width:50%; border:0px solid; margin-left: 10px" src="images/SunTracking.jpg">
+
+* **White CF**. 2026. An eye to the sun, celestial light entrains juvenile white shark body posture.  American Elasmobranch Annual Meeting. New Orleans, LA.
 
 * **White CF**. 2024. From the lab to the field: studying fish locomotor dynamics using animal borne biologgers.  PhD Defense, Department of Organismic and Evolutionary Biology, Harvard University. Cambridge, MA.[**Available**](https://youtu.be/3Qxp1LBuiq4)
 
@@ -16,13 +18,13 @@ title: "Presentations"
 
 * **White CF**, Lear KO, Gleiss AC, Whitney NM. 2022. Scaling of tailbeat frequency with body size during volitional swimming in Sharks. Society of Integrative and Comparative Biology. Virtual Meeting. [**Available**](https://youtu.be/7Soj54R8gMc)
 
+<img style="float: right; width:50%; border:0px solid; margin-left: 10px" src="images/BLSTalk.jpg">
+
 * **White CF**, Lauder GV 2021. Fish locomotion: reconstructing fish midline kinematics from multiple inertial measurement units. Society of Integrative and Comparative Biology. Virtual Meeting. [**Available**](https://youtu.be/IOppA3VxEo8)
 
 * **White CF**, Whitney NM, Weber DN, Frazier BS. 2020. Survival and swimming behavior of red drum (*Sciaenops ocellatus*) following recreational capture and release. Society of Integrative and Comparative Biology. Austin TX.
 
 * **White CF**, Clark CM, Lowe CG. 2019. Shark tracking robots: Development of autonomous Vehicles for tracking animals. American Elasmobranch Society. Snowbird UT.
-
-<img style="float: right; width:50%; border:0px solid; margin-left: 10px" src="images/BLSTalk.jpg">
 
 * **White CF**, Moxley JH, Gleiss AC, Chapple TK, Kanive PE, Anderson SD, Carlisle AB, Block BA, Jorgensen SJ. 2017. Fine scale variability in stomach temperatures of white sharks (*Carcharodon carcharias*) links to digestion and homeothermy. 6th International Biologging Conference. Konstanz, Germany. [**Available**](files/White_Biologging_Temp_Poster.pdf)
 
@@ -33,6 +35,8 @@ title: "Presentations"
 * **White CF**, Lin Y, Hsiung J, Clark CM, Lowe CG. 2015. Evaluating Autonomous Underwater Vehicles As Tools for Surveying and Tracking Tagged Fish. 145th Annual Meeting of the American Fisheries Society. Portland, OR.
 
 * **White CF**, Lin Y, Hsiung J, Clark CM, Lowe CG. 2015. Habitat Selection of the Leopard Shark, Triakis semifasciata, Using Fine Spatio-Temporal Movement and Temperature Data. American Elasmobranch Society. Reno, NV.
+
+<img style="float: right; width:50%; border:0px solid; margin-left: 10px" src="images/NelsonSymposium.JPG">
 
 * **White CF**, Hart KM, Cherkiss MS, Rockford MR, Mazzotti FJ, Whitney NM. 2014. Activity Patterns and Thermoregulatory Behavior of the Invasive Burmese Python, Python molurus bivittatus, in the Florida Everglades , USA.  5th International Biologging Symposium. Strasbourg, France. [**Available**](files/White_Biologging_Python_Poster.pdf)
 
