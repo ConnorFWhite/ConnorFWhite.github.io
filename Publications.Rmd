@@ -23,7 +23,7 @@ A list of my publications and access is available on [Google scholar](https://sc
 #### <u> 2026 </u>
 <div style="text-indent: -30px; padding-left: 50px;">
 
-**40\.** **White CF**, Castro-Santos T, Goerig E, Lauder GV. *In Press*. Fish locomotor dynamics quantified using multiple inertial measurement units. *Royal Society Open Science*
+**40\.** **White CF**, Castro-Santos T, Goerig E, Lauder GV. *2026*. Fish locomotor dynamics quantified using multiple inertial measurement units. *Royal Society Open Science* 13(9); 251863
 
 **39\.** Lauder GV, **White CF**, Ramesh D, Pan Y, Chaumel J, Zhang Y. *2026*. Six questions in fish locomotor biology and the technical approaches needed to address them. JEB commentary, *Journal of Experimental Biology* 229(7); jeb251375
 
